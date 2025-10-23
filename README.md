@@ -1,4 +1,4 @@
-# Subscription Servic
+# Subscription Service
 REST API для агрегации данных об онлайн-подписках пользователей.
 
 ## Описание
